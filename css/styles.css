@@ -1,0 +1,21 @@
+body {
+  background-color: #090b1a;
+  width: 1440px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+}
+
+.card {
+  background-color: #1b1938;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: #3e52a3; }
+
+.main-image {
+  float: right;
+}
